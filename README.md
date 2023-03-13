@@ -1,2 +1,2 @@
 # SSPU-Library-Reservation-Tool
-SSPU图书馆预约脚本
+SSPU图书馆抢位脚本
